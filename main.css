@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+.wrap{
+    width: 1000px;
+    background: lightgoldenrodyellow;
+}
+
+h2  {
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}
+.box{
+    background: lightcyan;
+    width: 250px;
+    height: 200px;
+    margin-right: 10%;
+}
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
